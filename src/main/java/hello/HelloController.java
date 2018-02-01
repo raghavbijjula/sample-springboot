@@ -8,7 +8,7 @@ public class HelloController {
     
     @RequestMapping("/")
     public String index() {
-        return "This is SpringBoot Demo!";
+        return "This is SpringBoot Demo :-)";
     }
     
 }
